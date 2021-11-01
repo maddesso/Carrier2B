@@ -7,7 +7,7 @@
     "name": ""
   },
   "scripts": {
-    "start": "node build/index.js",
+    "start": "node build/app.js",
     "build": "tsc --build",
     "clean": "tsc --build --clean"
   },
