@@ -15,7 +15,9 @@
     "typescript": "^4.0.5"
   },
   "dependencies": {
-    "abort-controller": "^3.0.0",
+    "@types/node": "^14.14.7",
+    "typescript": "^4.0.5"
+   "abort-controller": "^3.0.0",
     "axios": "^0.23.0"
   }
 }
